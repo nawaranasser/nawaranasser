@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/nora-nasser-eldin/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nora-nasser-eldin/" target="_blank"><img src="https://img.shields.io/badge/-Nora%20Nasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
