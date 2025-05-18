@@ -64,9 +64,10 @@
 
   <img src="https://img.shields.io/badge/-Teaching%20Kids%20Coding-05122A?style=flat&logo=codeforces" alt="Teaching Kids Coding"/>&nbsp;
   <img src="https://img.shields.io/badge/-Curriculum%20Development-05122A?style=flat&logo=notion" alt="Curriculum Development"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Simplifying%20Complex%20Concepts-05122A?style=flat&logo=bookstack" alt="Simplifying Complex Concepts"/>
+
   <img src="https://img.shields.io/badge/-Presentation%20Skills-05122A?style=flat&logo=microsoftpowerpoint" alt="Presentation Skills"/>&nbsp;
   <img src="https://img.shields.io/badge/-Public%20Speaking-05122A?style=flat&logo=airmeet" alt="Public Speaking"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Simplifying%20Complex%20Concepts-05122A?style=flat&logo=bookstack" alt="Simplifying Complex Concepts"/>
 
 </div>
 
