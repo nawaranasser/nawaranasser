@@ -13,7 +13,9 @@
 
 - 🏢 I'm a cloud computing Engineer 
 - 👨‍💻 As a CS learner, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚙️ Check out my portfolio at (https://nora-portofolio-kg3wolc.gamma.site/) to see some of the projects I've worked on.
+- 🏫 I'm also passionate about teaching.  
+- ⚙️ Check out my portfolio at (https://nora-portofolio-kg3wolc.gamma.site/) to see some of the projects I've worked on as software instructor.
+  
 
 
 ### Connect with Me :
@@ -58,6 +60,13 @@
   
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" alt="Bash"/>
+
+
+  <img src="https://img.shields.io/badge/-Teaching%20Kids%20Coding-05122A?style=flat&logo=codeforces" alt="Teaching Kids Coding"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Curriculum%20Development-05122A?style=flat&logo=notion" alt="Curriculum Development"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Presentation%20Skills-05122A?style=flat&logo=microsoftpowerpoint" alt="Presentation Skills"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Public%20Speaking-05122A?style=flat&logo=airmeet" alt="Public Speaking"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Simplifying%20Complex%20Concepts-05122A?style=flat&logo=bookstack" alt="Simplifying Complex Concepts"/>
 
 </div>
 
