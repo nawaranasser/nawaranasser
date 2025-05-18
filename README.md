@@ -21,8 +21,12 @@
 
 <a href="https://www.linkedin.com/in/nora-nasser-eldin/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:noranasser750@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+
 <a href="https://github.com/nawaranasser"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://wa.me/0201012125384"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+
+
 <a href="https://drive.google.com/file/d/14P9Acme8rdJyhSnPaaUo8RDZA2bvFZa5/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-yellow.svg?style=plastic&logo=google-drive&logoColor=white" alt="Resume"/>
 </a>
