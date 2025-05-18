@@ -8,8 +8,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Within+the+scope+of+cloud+computing+" alt="Typing SVG" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Within+the+scope+of+cloud+computing+;Invest+in+yourself.&font=Playfair%20Code&center=true&width=440&height=45&color=FFFF00&vCenter=true&size=22"></a>
 </p> 
+ 
 
 - 🏢 I'm a cloud computing Engineer 
 - 👨‍💻 As a CS learner, I'm constantly learning and exploring new technologies to improve my skills.
@@ -32,25 +33,32 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+<div align="left">
+  <img src="https://img.shields.io/badge/-AWS%20Fundamentals-05122A?style=flat&logo=amazonaws" alt="AWS Fundamentals"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Cloud%20Architecture-05122A?style=flat&logo=cloudflare" alt="Cloud Architecture Concepts"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Virtualization-05122A?style=flat&logo=vmware" alt="Virtualization (VMware, containers)"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Cloud%20Security-05122A?style=flat&logo=cloudsmith" alt="Cloud Security"/>&nbsp;
+
+
+  <img src="https://img.shields.io/badge/-Linux%20System%20Administration-05122A?style=flat&logo=linux" alt="Linux System Administration"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Command%20Line%20Basics-05122A?style=flat&logo=gnubash" alt="Command Line Basics"/>&nbsp;
+
+  
+  <img src="https://img.shields.io/badge/-Networking%20Concepts-05122A?style=flat&logo=cisco" alt="Networking Concepts"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Network%20Architecture-05122A?style=flat&logo=cloudflare" alt="Network Architecture Basics"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Network%20Virtualization-05122A?style=flat&logo=proxmox" alt="Network Virtualization"/>&nbsp;
+
+  
+  <img src="https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat&logo=git" alt="Git and GitHub"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Server%20Management-05122A?style=flat&logo=ubuntu" alt="Managing servers and environments"/>
+
+  
+   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" alt="Bash"/>
+
+</div>
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
