@@ -45,7 +45,6 @@
 
   
   <img src="https://img.shields.io/badge/-Networking%20Concepts-05122A?style=flat&logo=cisco" alt="Networking Concepts"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Network%20Architecture-05122A?style=flat&logo=cloudflare" alt="Network Architecture Basics"/>&nbsp;
   <img src="https://img.shields.io/badge/-Network%20Virtualization-05122A?style=flat&logo=proxmox" alt="Network Virtualization"/>&nbsp;
 
   
