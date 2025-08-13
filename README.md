@@ -15,7 +15,7 @@
 - 👨‍💻 As a IT learner, I'm constantly learning and exploring new technologies to improve my skills.
 - 🏫 I'm also passionate about teaching programming for children.  
 - ⚙️ Check out my portfolio as coding instructor at (https://nora-portofolio-kg3wolc.gamma.site/) .
-- ⚙️ Check out my portfolio as Cloud & DevOps engineer at (https://gamma.app/docs/Nora-Nasser-Eldin-jtxykds4e58lx7f?mode=doc) .
+- ♾️ Check out my portfolio as Cloud & DevOps engineer at (https://gamma.app/docs/Nora-Nasser-Eldin-jtxykds4e58lx7f?mode=doc) .
 
 
 ### Connect with Me :
