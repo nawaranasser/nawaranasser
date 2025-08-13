@@ -14,8 +14,8 @@
 - 🏢 I'm a Cloud & DevOps Engineer 
 - 👨‍💻 As a IT learner, I'm constantly learning and exploring new technologies to improve my skills.
 - 🏫 I'm also passionate about teaching programming for children.  
-- ⚙️ Check out my portfolio at (https://nora-portofolio-kg3wolc.gamma.site/) to see some of the projects I've worked on as software instructor.
-  
+- ⚙️ Check out my portfolio as coding instructor at (https://nora-portofolio-kg3wolc.gamma.site/) .
+- ⚙️ Check out my portfolio as Cloud & DevOps engineer at (https://gamma.app/docs/Nora-Nasser-Eldin-jtxykds4e58lx7f?mode=doc) .
 
 
 ### Connect with Me :
@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/nora-nasser-eldin/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:noranasser750@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<a href="https://drive.google.com/file/d/1wcrlEN2HWZCN3iw5zgQlakQ8ba7m_28r/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1fKdcoHEkMKlALHwsRAuH-BgBY_UzRbF1/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-yellow.svg?style=plastic&logo=google-drive&logoColor=white" alt="Resume"/>
 </a>
 
