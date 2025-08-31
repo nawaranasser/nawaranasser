@@ -49,7 +49,7 @@
 
   
   <img src="https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat&logo=git" alt="Git and GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Server%20Management-05122A?style=flat&logo=ubuntu" alt="Managing servers and environments"/>
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="docker"/>
 
   
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
