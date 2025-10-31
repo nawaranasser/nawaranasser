@@ -33,39 +33,50 @@
 
 
 ### 🛠 &nbsp;Tech Stack
+
 <div align="left">
-  <img src="https://img.shields.io/badge/-AWS%20Fundamentals-05122A?style=flat&logo=amazonaws" alt="AWS Fundamentals"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Cloud%20Architecture-05122A?style=flat&logo=cloudflare" alt="Cloud Architecture Concepts"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Virtualization-05122A?style=flat&logo=vmware" alt="Virtualization (VMware, containers)"/>&nbsp;
+
+  <!-- ☁️ Cloud & Virtualization -->
+  <h3>☁️ Cloud & Virtualization</h3>
+  <img src="https://img.shields.io/badge/-AWS%20Cloud-05122A?style=flat&logo=amazonaws" alt="AWS Cloud"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Cloud%20Architecture-05122A?style=flat&logo=cloudflare" alt="Cloud Architecture"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Virtualization-05122A?style=flat&logo=vmware" alt="Virtualization"/>&nbsp;
   <img src="https://img.shields.io/badge/-Cloud%20Security-05122A?style=flat&logo=cloudsmith" alt="Cloud Security"/>&nbsp;
-
-
-  <img src="https://img.shields.io/badge/-Linux%20System%20Administration-05122A?style=flat&logo=linux" alt="Linux System Administration"/>&nbsp;
+  <br><br>
+  <!-- ⚙️ DevOps & Automation -->
+  <h3>⚙️ DevOps & Automation</h3>
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins" alt="Jenkins"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes" alt="Kubernetes"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible" alt="Ansible"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform" alt="Terraform"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus" alt="Prometheus"/>&nbsp;
+  <br><br>
+  <!-- 🐧 Linux & System Administration -->
+  <h3>🐧 Linux & System Administration</h3>
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" alt="Linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Bash%20Scripting-05122A?style=flat&logo=gnubash" alt="Bash"/>&nbsp;
   <img src="https://img.shields.io/badge/-Command%20Line%20Basics-05122A?style=flat&logo=gnubash" alt="Command Line Basics"/>&nbsp;
-
-  
+  <br><br>
+  <!-- 🌐 Networking -->
+  <h3>🌐 Networking</h3>
   <img src="https://img.shields.io/badge/-Networking%20Concepts-05122A?style=flat&logo=cisco" alt="Networking Concepts"/>&nbsp;
   <img src="https://img.shields.io/badge/-Network%20Virtualization-05122A?style=flat&logo=proxmox" alt="Network Virtualization"/>&nbsp;
-
-  
-  <img src="https://img.shields.io/badge/-Git%20&%20GitHub-05122A?style=flat&logo=git" alt="Git and GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="docker"/>
-
-  
-   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash" alt="Bash"/>
-
-
+  <br><br>
+  <!-- 🐍 Programming -->
+  <h3>🐍 Programming</h3>
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/>&nbsp;
+  <br><br>
+  <!-- 🎓 Teaching & Communication -->
+  <h3>🎓 Teaching & Communication</h3>
   <img src="https://img.shields.io/badge/-Teaching%20Kids%20Coding-05122A?style=flat&logo=codeforces" alt="Teaching Kids Coding"/>&nbsp;
   <img src="https://img.shields.io/badge/-Curriculum%20Development-05122A?style=flat&logo=notion" alt="Curriculum Development"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Simplifying%20Complex%20Concepts-05122A?style=flat&logo=bookstack" alt="Simplifying Complex Concepts"/>
-
+  <img src="https://img.shields.io/badge/-Simplifying%20Complex%20Concepts-05122A?style=flat&logo=bookstack" alt="Simplifying Complex Concepts"/>&nbsp;
   <img src="https://img.shields.io/badge/-Presentation%20Skills-05122A?style=flat&logo=microsoftpowerpoint" alt="Presentation Skills"/>&nbsp;
   <img src="https://img.shields.io/badge/-Public%20Speaking-05122A?style=flat&logo=airmeet" alt="Public Speaking"/>&nbsp;
 
 </div>
-
-
-
 
 
